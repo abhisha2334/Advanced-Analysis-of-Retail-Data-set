@@ -119,8 +119,11 @@ If using a database, connect and execute the SQL scripts.
 Open reports/ for generated visualizations.
 
 📌 Conclusion and Recommendations
+
 🔹 Conclusion:
+
 This project demonstrates how data analysis can enhance business performance by identifying key sales patterns and customer behaviors.
+
 
 🔹 Recommendations:
 - Implement personalized marketing strategies for high-value customers
